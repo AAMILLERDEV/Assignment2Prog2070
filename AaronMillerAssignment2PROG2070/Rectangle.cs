@@ -39,7 +39,7 @@ namespace AaronMillerAssignment2PROG2070
         public int SetWidth(int width)
         {
             this.Width = width;
-            return Length;
+            return width;
         }  
         public int GetPerimeter()
         {
